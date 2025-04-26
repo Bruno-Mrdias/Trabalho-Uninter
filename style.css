@@ -1,0 +1,59 @@
+/* 1. Cor de fundo suave */
+body {
+    background-color: #cce6fd; 
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+ 
+  h1 {
+    color: #2c3e50; 
+    text-align: center;
+  }
+  
+  
+  p {
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+ 
+  ul li {
+    margin-bottom: 15px;
+  }
+  
+
+  img {
+    border-radius: 12px;
+    max-width: 300px;
+    height: auto;
+  }
+  
+ 
+  table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #dfe6e9;
+    color: #2c3e50;
+  }
+  
+  a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+  }
