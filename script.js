@@ -1,6 +1,6 @@
 
 function mostrarMensagem() {
-    const mensagem = "Bem-vindo à minha página do tranalho UNINTER! Que seu dia seja ótimo,produtivo e cheio de aprendizados :)'z.";
+    const mensagem = "Bem-vindo à minha página do tranalho UNINTER! Que seu dia seja ótimo,produtivo e cheio de aprendizados :).";
     document.getElementById("mensagem").textContent = mensagem;
   }
   
